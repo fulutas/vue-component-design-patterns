@@ -1,1 +1,1 @@
-# vue-component-design-patterns
+# Vue Component Design Patterns
