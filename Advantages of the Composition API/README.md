@@ -1,4 +1,4 @@
-# section-21-3
+# Advantages of the Composition API
 
 ## Project setup
 ```
