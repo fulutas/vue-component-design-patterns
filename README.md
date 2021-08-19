@@ -7,3 +7,4 @@
 * Moving Beyond Vue’s Event System (Modal)
 * Separation of Concerns (Dedicated js file use in component)
 * Third-Party Libraries as Controlled Components
+* Advantages of the Composition API
